@@ -6,6 +6,9 @@
   font-weight: normal;
   font-style: normal;
 }
+*{
+  direction: rtl;
+}
 .headtext{
     font-family: nahid;
   text-decoration: none;
